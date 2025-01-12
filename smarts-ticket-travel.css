@@ -1046,8 +1046,6 @@ footer * {
   }
 
   .whatsapp_button {
-    width: auto;
-    max-width: 300px;
     margin-top: 20px;
   }
 }
@@ -1243,8 +1241,7 @@ footer * {
 
   .exit_button,
   .full_screen_title,
-  .full_screen_image,
-  .whatsapp_button {
+  .full_screen_image {
     width: 100%;
     text-align: center;
   }
@@ -1259,10 +1256,6 @@ footer * {
     padding: 2px 10px;
     margin-right: 10px;
     margin-bottom: 10px;
-  }
-
-  .whatsapp_button {
-    width: auto;
   }
 
 
