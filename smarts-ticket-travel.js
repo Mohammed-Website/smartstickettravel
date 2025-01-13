@@ -56,6 +56,7 @@ window.addEventListener('scroll', () => {
 /* Switching words functionality */
 document.addEventListener("DOMContentLoaded", function () {
     const words = [
+        "رحلات سياحية",
         "طرابزون",
         "جورجيا",
         "فرنسا",
